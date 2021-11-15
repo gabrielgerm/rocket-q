@@ -15,6 +15,8 @@ Rocket.Q é uma aplicação de interação através de perguntas, sendo possíve
 - Rode `yarn db` para criar as tabelas do banco de dados.
 - Rode `yarn start` para iniciar a aplicação.
 
+A aplicação estará disponível em `http://localhost:8080/`
+
 ## Tecnologias
 
 Para o desenvolvimento deste projeto foram utilizadas as seguintes tecnologias:
