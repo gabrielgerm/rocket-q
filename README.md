@@ -1,7 +1,7 @@
 # Rocket.Q
 
 <p align="center">
-  <img alt="Rocket.Q" src="./public/assets/rocket-q.png" style="width:100%; border-radius:6px;">
+  <img alt="Rocket.Q" src="./public/assets/rocket-q.png">
 </p>
 
 ## Sobre
@@ -27,3 +27,5 @@ Para o desenvolvimento deste projeto foram utilizadas as seguintes tecnologias:
 - Express
 - SQLite
 
+---
+Desenvolvido com 💙 por [Lucas Rangel](https://www.linkedin.com/in/lucasrangel12/)
